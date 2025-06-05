@@ -1,5 +1,5 @@
 # Esports-Management-System
-Esports Management System for University.
+Esports Management System for University Assignment.
 
 This program simulates a single-elimination esports tournament using C++. It reads player data from a CSV file, groups them into teams, and schedules matches across multiple rounds until a champion is determined.
 
