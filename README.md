@@ -1,10 +1,10 @@
-# Esports-Management-System
+# Esports_Management_System
+
 Esports Management System for University Assignment.
 
 This program simulates a single-elimination esports tournament using C++. It reads player data from a CSV file, groups them into teams, and schedules matches across multiple rounds until a champion is determined.
 
-Features:
-Loads 200 players from a CSV file
+Features: Loads 200 players from a CSV file
 
 Forms 20 teams (10 players each)
 
@@ -16,8 +16,7 @@ Displays round-by-round results and final champion
 
 Avoids STL containers by using static arrays and function pointers
 
-Structure:
-CSVReader.cpp/.hpp – Reads and parses player data
+Structure: CSVReader.cpp/.hpp – Reads and parses player data
 
 Teams.hpp – Defines team structure and ranking logic
 
